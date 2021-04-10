@@ -1,7 +1,7 @@
 {
 	"name": "request_header",
 	"version": "0.0.1",
-	"description": "API project for freeCodeCamp",
+	"description": "API project for Request Header Parser Microservice",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
